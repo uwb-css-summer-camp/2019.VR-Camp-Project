@@ -1,0 +1,8 @@
+BASECLASS=coreObjectsBehavior
+using UnityEngine;
+using UWBsummercampAPI;
+
+public class $ClassName : coreObjectsBehavior {
+	
+	$Functions
+}

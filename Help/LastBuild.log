@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shfbBuild product="Sandcastle Help File Builder and Tools" version="2018.12.10.0" projectFile="C:\Users\kelle\Documents\School\CSS497\SummerCampVR2019v2\summerCampDocs.shfbproj" started="4/3/2019 3:13:38 AM">
+<buildStep step="Initializing">
+Finding tools...
+The Sandcastle tools are located in &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\&#39;
+Searching for HTML Help 1 compiler...
+Found HTML Help 1 compiler in &#39;C:\Program Files (x86)\HTML Help Workshop\&#39;
+Locating components in the following folder(s):
+    C:\Users\kelle\Documents\School\CSS497\SummerCampVR2019v2
+    C:\ProgramData\EWSoftware\Sandcastle Help File Builder\Components and Plug-Ins\
+    C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\
+Using framework reflection data for &#39;.NET Framework 4.5&#39; located in &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Data\.NETFramework&#39;
+Using presentation style &#39;VS2013&#39; located in &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013&#39;
+Loading and initializing plug-ins...
+Lightweight Website Style Version 2018.12.10.0
+Copyright &#169; 2006-2018, Eric Woodruff, All Rights Reserved
+Portions Copyright &#169; 2014, Sam Harwell, All Rights Reserved
+</buildStep>
+<buildStep step="ClearWorkFolder">
+Clearing working folder...
+</buildStep>
+<buildStep step="ValidatingDocumentationSources">
+Validating and copying documentation source information
+Source: C:\Users\kelle\Documents\School\CSS497\SummerCampVR2019v2\SummerCampVR2019v2.sln
+    Found project &#39;C:\Users\kelle\Documents\School\CSS497\SummerCampVR2019v2\Assembly-CSharp.csproj&#39;
+    Found project &#39;C:\Users\kelle\Documents\School\CSS497\SummerCampVR2019v2\Assembly-CSharp-Editor.csproj&#39;
+
+Parsing project files
+    Found assembly &#39;C:\Users\kelle\Documents\School\CSS497\SummerCampVR2019v2\Temp\bin\Debug\Assembly-CSharp.dll&#39;
+    Last step completed in 00:00:00.0668
+</buildStep>
+<buildStep step="Failed">
+
+SHFB: Error BE0040: Project assembly does not exist: C:\Users\kelle\Documents\School\CSS497\SummerCampVR2019v2\Temp\bin\Debug\Assembly-CSharp-Editor.dll
+   at SandcastleBuilder.Utils.BuildEngine.BuildProcess.ValidateDocumentationSources()
+   at SandcastleBuilder.Utils.BuildEngine.BuildProcess.Build()
+
+</buildStep>
+</shfbBuild>

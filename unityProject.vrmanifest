@@ -1,0 +1,15 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.2019summercampv2.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "strings": {
+        "en_us": {
+          "name": "2019SummerCampV2 [Testing]"
+        }
+      }
+    }
+  ]
+}

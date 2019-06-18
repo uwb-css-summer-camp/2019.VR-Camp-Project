@@ -1,0 +1,2 @@
+DEFAULT void buildGame() buildGame() is called once, at the start of the game
+DEFAULT void updateGame() updateGame() is called many times per second
